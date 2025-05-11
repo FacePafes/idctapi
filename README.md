@@ -1,4 +1,4 @@
-# idctapi
+# idctapi - alot of random music releases
 
 **A repository with a large collection of music data.**
 
