@@ -1,9 +1,9 @@
-# idctapi - alot of random music releases
+# idctapi - A Lot of Random Music Releases
 
 **A repository with a large collection of music data.**
 
-- ✅ **14,517** releases added  
-- 📦 **34,009** releases not yet added
+- ✅ **18,469** releases added  
+- 📦 **30,057** releases not yet added
 
 ## About
 
