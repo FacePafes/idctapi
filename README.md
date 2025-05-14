@@ -12,12 +12,12 @@
 **[File](./file.csv)**  
 **[Digital](./digital.csv)**
 **[2xcd's](./2xcd.csv)**  
-**[4-track cartridge's](./4-track cartridge.csv)**  
-**[8-track cartridge's](./8-track cartridge.csv)**  
+**[4-track cartridge's](./4-track%20cartridge.csv)**  
+**[8-track cartridge's](./8-track%20cartridge.csv)**  
 **[acetate's](./acetate.csv)**  
-**[all media's](./all media.csv)**  
+**[all media's](./all%20media.csv)**  
 **[blu-ray's](./blu-ray.csv)**  
-**[box set's](./box set.csv)**  
+**[box set's](./box%20set.csv)**  
 **[cassette's](./cassette.csv)**  
 **[cd's](./cd.csv)**  
 **[cdr's](./cdr.csv)**  
@@ -28,14 +28,14 @@
 **[digital's](./digital.csv)**  
 **[dvd's](./dvd.csv)**  
 **[dvdr's](./dvdr.csv)**  
-**[edison disc's](./edison disc.csv)**  
+**[edison disc's](./edison%20disc.csv)**  
 **[file's](./file.csv)**  
 **[flexi-disc's](./flexi-disc.csv)**  
 **[floppy disk's](./floppy disk.csv)**  
 **[laserdisc's](./laserdisc.csv)**  
-**[lathe cut's](./lathe cut.csv)**  
+**[lathe cut's](./lathe%20cut.csv)**  
 **[lp's](./lp.csv)**  
-**[memory stick's](./memory stick.csv)**  
+**[memory stick's](./memory%20stick.csv)**  
 **[minidisc's](./minidisc.csv)**  
 **[mp3's](./mp3.csv)**  
 **[other's](./other.csv)**  
