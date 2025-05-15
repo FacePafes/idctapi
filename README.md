@@ -3,7 +3,7 @@
 **A repository with a large collection of music data.**
 
 - ✅ **50,009** releases added  
-- 📦 **10,000+** releases not yet added
+- 📦 **12,000+** releases not yet added
 
 ## 📂 Files
 
