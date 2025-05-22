@@ -5,6 +5,11 @@
 - ✅ **50,009** releases added  
 - 📦 **42,000+** releases not yet added
 
+![Repo size](https://img.shields.io/github/repo-size/FacePafes/idctapi)
+![Last commit](https://img.shields.io/github/last-commit/FacePafes/idctapi)
+![Releases added](https://img.shields.io/badge/releases-50009-green)
+![Goal](https://img.shields.io/badge/goal-100k-blue)
+
 ## 📂 Files
 
 **[Vinyl's](./vinyl.csv)**  
@@ -59,12 +64,3 @@ All data shown in this repo is collected using the [Discogs API](https://www.dis
 ### 🎯 Goals
 
 - 100k releases
-
-# idctapi - A Massive Archive of Music Releases
-
-![Repo size](https://img.shields.io/github/repo-size/FacePafes/idctapi)
-![Last commit](https://img.shields.io/github/last-commit/FacePafes/idctapi)
-![Issues](https://img.shields.io/github/issues/FacePafes/idctapi)
-![License](https://img.shields.io/github/license/FacePafes/idctapi)
-![Releases added](https://img.shields.io/badge/releases-50009-green)
-![Goal](https://img.shields.io/badge/goal-100k-blue)
