@@ -3,14 +3,13 @@
 **A repository with a large collection of music data.**
 
 - ✅ **50,009** releases added  
-- 📦 **42,000+** releases not yet added
 
 ![Repo size](https://img.shields.io/github/repo-size/FacePafes/idctapi)
 ![Last commit](https://img.shields.io/github/last-commit/FacePafes/idctapi)
 ![Releases added](https://img.shields.io/badge/releases-50009-green)
 ![Goal](https://img.shields.io/badge/goal-100k-blue)
 
-## 📂 Files
+## Files
 
 **[Vinyl's](./vinyl.csv)**  
 **[CD's](./cd.csv)**  
@@ -59,8 +58,4 @@ This project uses the [Discogs API](https://www.discogs.com/developers/) to gath
 
 All data shown in this repo is collected using the [Discogs API](https://www.discogs.com/developers/)
 
----
-
-### 🎯 Goals
-
-- 100k releases
+--F
